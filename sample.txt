@@ -1,7 +1,0 @@
-AWS Cloud Computing Report - April 2026
-
-Our company is spending 500 dollars per month on AWS services.
-EC2 instances are running 24/7 but only used 8 hours a day.
-S3 storage has 500GB of old files not accessed in 6 months.
-RDS database is using a large instance but CPU is only 10 percent.
-We need to reduce costs and improve efficiency.
